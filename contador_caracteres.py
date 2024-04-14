@@ -9,8 +9,8 @@ while i < len(texto):
     if letra_atual == ' ':
         i += 1
         continue
-    if total_winner < qtde_letra_atual: # ecop@mailfence.com
-        total_winner = qtde_letra_atual # Fingerprint: 89F4 5B5F D3A8 3FEA 3AED 8F3D 98AB A602 AB02 267A
+    if total_winner < qtde_letra_atual:
+        total_winner = qtde_letra_atual
         letra_winner = letra_atual
     i += 1
 print(f'A letra "{letra_winner}" apareceu {total_winner}x.', texto)
