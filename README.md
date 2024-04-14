@@ -1,4 +1,4 @@
-# Symbol Definitions and References
+# Symbol Finder: Explore and Understand Your Code
 
 This script allows you to find definitions and references for functions and other symbols within the file. Simply click on a symbol below or in the code to view its definition and references.
 
